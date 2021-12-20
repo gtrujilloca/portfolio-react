@@ -1,0 +1,98 @@
+{
+  "profile": {
+    "rol": "Desarrollador Front end",
+    "description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti."
+  },
+  "experiences": [
+    {
+      "job-title": "Desarrollador Back end",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "company-logo": "assets/images/logo.png"
+    },
+    {
+      "job-title": "Desarrollador Back end",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "company-logo": "assets/images/logo.png"
+    },
+    {
+      "job-title": "Desarrollador Back end",
+      "job-dates": "Enero 2000 - Junio 2000",
+      "job-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "company-logo": "assets/images/logo.png"
+    }
+  ],
+  "skills": [
+    {
+      "skill-title": "Front end",
+      "skill-subtitle": "Años de experiencia",
+      "skill-time": [0,1],
+      "skill-info": [
+        {"teach":"HTML","percentage":70},
+        {"teach":"CSS","percentage":40},
+        {"teach":"Javascript","percentage":60}
+      ]
+    },
+    {
+      "skill-title": "Back end",
+      "skill-subtitle": "Años de experiencia",
+      "skill-time": [0,1],
+      "skill-info": [
+        {"teach":"NodeJs","percentage":70},
+        {"teach":"C#","percentage":40},
+        {"teach":"MongoDB","percentage":60}
+      ]
+    },
+    {
+      "skill-title": "Design",
+      "skill-subtitle": "Años de experiencia",
+      "skill-time": [0,1],
+      "skill-info": [
+        {"teach":"Figma","percentage":30}
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML", "CSS", "Javascript", "Responsive"],
+      "project-image": "assets/images/project.jpg",
+      "project-demo": "https://gtrujilloca.github.io/portfolio",
+      "project-code": "https://github.com/gtrujilloca/portfolio"
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML", "CSS", "Javascript", "Responsive"],
+      "project-image": "assets/images/project.jpg",
+      "project-demo": "https://gtrujilloca.github.io/portfolio",
+      "project-code": "https://github.com/gtrujilloca/portfolio"
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML", "CSS", "Javascript", "Responsive"],
+      "project-image": "assets/images/project.jpg",
+      "project-demo": "https://gtrujilloca.github.io/portfolio",
+      "project-code": "https://github.com/gtrujilloca/portfolio"
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML", "CSS", "Javascript", "Responsive"],
+      "project-image": "assets/images/project.jpg",
+      "project-demo": "https://gtrujilloca.github.io/portfolio",
+      "project-code": "https://github.com/gtrujilloca/portfolio"
+    },
+    {
+      "project-title": "landing page",
+      "project-description": "orem ipsum dolor, sit amet consectetur adipisicing elit. Facilis quam adipisci modi itaque assumenda rem saepe sit. Quae blanditiis voluptas recusandae animi ipsa necessitatibus eos odit, sapiente, cumque laborum corrupti.",
+      "project-tags": ["HTML", "CSS", "Javascript", "Responsive"],
+      "project-image": "assets/images/project.jpg",
+      "project-demo": "https://gtrujilloca.github.io/portfolio",
+      "project-code": "https://github.com/gtrujilloca/portfolio"
+    }
+  ]
+}
